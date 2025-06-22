@@ -53,9 +53,9 @@ export default function Home() {
                   <div>
                   <div className="m-4">
                     <div className="rounded-xl shadow-xl p-4 border-t-[4px] border-purple-600 bg-[#381260]">
-                      <p className="font-sans text-md text-justify text-white">Hello there! I'm Tejeswar, currently pursuing a Bachelor of Technology in Computer Science and Engineering at SASTRA Deemed University. I'm a passionate and driven aspiring software engineer.</p>
+                      <p className="font-sans text-md text-justify text-white">Hello there! I&apos;m Tejeswar, currently pursuing a Bachelor of Technology in Computer Science and Engineering at SASTRA Deemed University. I&apos;m a passionate and driven aspiring software engineer.</p>
                       <br></br>
-                      <p className="font-sans text-md text-justify text-white">Throughout my academic journey, I've developed proficiency in multiple programming languages such as C, C++, Java, JavaScript, and XML. I'm also experienced with frameworks and tools including React.js, Next.js, Tailwind CSS, Android (Java/XML), Firebase, Firestore, and relational databases like MySQL and Oracle.</p>
+                      <p className="font-sans text-md text-justify text-white">Throughout my academic journey, I&apos;ve developed proficiency in multiple programming languages such as C, C++, Java, JavaScript, and XML. I&apos;m also experienced with frameworks and tools including React.js, Next.js, Tailwind CSS, Android (Java/XML), Firebase, Firestore, and relational databases like MySQL and Oracle.</p>
                       <br></br>
                       <p className="font-sans text-md text-justify text-white">I am eager to improve my skills and knowledge to contribute to innovative software development projects and continuously expand my expertise in this dynamic field.</p>
                     </div>
@@ -359,7 +359,7 @@ export default function Home() {
                 contact &&
                   <div className="flex justify-center m-2">
                       <div className="bg-violet-900 rounded-xl shadow-lg shadow-white w-70 md:w-200 m-10">
-                        <h1 className="flex justify-center font-sans font-bold pt-4 text-xl md:text-2xl text-violet-200">Let's Work Together!</h1>
+                        <h1 className="flex justify-center font-sans font-bold pt-4 text-xl md:text-2xl text-violet-200">Let&apos;s Work Together!</h1>
                         <h1 className="flex justify-center font-sans ml-5 text-md md:text-lg text-violet-200 italic">Feel free to connect with me for collaborations or networking.</h1>
                         <form action="https://formsubmit.co/tejeswarsakthidaran@gmail.com" method="POST">
                           <div>
