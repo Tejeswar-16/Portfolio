@@ -361,7 +361,7 @@ export default function Home() {
                       <div className="bg-violet-900 rounded-xl shadow-lg shadow-white w-70 md:w-200 m-10">
                         <h1 className="flex justify-center font-sans font-bold pt-4 text-xl md:text-2xl text-violet-200">Let&apos;s Work Together!</h1>
                         <h1 className="flex justify-center font-sans ml-5 text-md md:text-lg text-violet-200 italic">Feel free to connect with me for collaborations or networking.</h1>
-                        <form action="https://formsubmit.co/tejeswarsakthidaran@gmail.com" method="POST">
+                        <form action="https://formsubmit.co/8c81d57bd8ed547425edf2425556cbf9 " method="POST">
                           <div>
                             <div className="flex flex-col items-center md:flex-row md:justify-between">
                               <input name="fullname" className="mx-auto font-sans p-2 mt-5 mb-5 text-xl text-indigo-300 border border-purple-300 rounded-xl w-65 md:w-82 lg:w-70" type="text" required placeholder="Full Name"/>
