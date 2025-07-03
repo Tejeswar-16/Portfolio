@@ -107,7 +107,7 @@ export default function Home() {
                                 </div>
                               </div>
                               <Image src="/dlbts.png" alt="dlbts-pic" width={500} height={500}></Image>
-                              <p className="font-sans text-sm md:text-base text-justify text-white p-4">A Firebase - powered responsive web app for managing registration, analysis and judging of participants across 43
+                              <p className="font-sans text-sm md:text-base text-justify text-white p-4">A Firebase - powered responsive web app for managing registration, analysis and judging of participants across 45
                                 events for DLBTS - 2025 conducted by Sri Sathya Sai Seva Organisations (India), Kancheepuram South
                                 District, Tamilnadu.</p>
                             </div>
