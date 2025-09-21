@@ -35,7 +35,7 @@ export default function Home() {
                 <Link href="https://github.com/Tejeswar-16"><Image className="select-none mt-2 rounded-xl" src="/github.png" width={70} height={10} alt="girhub-pic"></Image></Link>
               </div>
               <div className="bg-indigo-950 mt-2 mb-2 mr-4 p-2 rounded-xl w-15 hover:cursor-pointer">
-                <a href="/Tejeswar S_Resume.pdf" target="_blank" rel="noopener noreferrer"><Image className="select-none rounded-xl" src="/download.png" width={70} height={10} alt="girhub-pic"></Image></a>
+                <a href="/Tejeswar_S_Resume.pdf" target="_blank" rel="noopener noreferrer"><Image className="select-none rounded-xl" src="/download.png" width={70} height={10} alt="girhub-pic"></Image></a>
               </div>
             </div>
           </div>
