@@ -93,7 +93,7 @@ export default function Home() {
                     <div className="m-4">
                       <div className="rounded-xl shadow-xl p-4 border-t-[4px] border-purple-600 bg-[#381260]">
                         <div className="flex flex-col items-center lg:items-start lg:flex-row lg:justify-between">
-                          <div className="flex flex-col">
+                          <div className="flex flex-row flex-wrap">
                             {/*********/}
                             <div className="bg-violet-900 rounded-xl shadow-lg shadow-white w-60 md:w-120 my-5">
                               <div className="flex flex-row justify-between p-4">
@@ -110,6 +110,23 @@ export default function Home() {
                               <p className="font-sans text-sm md:text-base text-justify text-white p-4">A Firebase - powered responsive web app for managing registration, analysis and judging of participants across 45
                                 events for DLBTS - 2025 conducted by Sri Sathya Sai Seva Organisations (India), Kancheepuram South
                                 District, Tamilnadu.</p>
+                            </div>
+                            {/*********/}
+                            <div className="bg-violet-900 rounded-xl shadow-lg shadow-white w-60 md:w-120 my-5">
+                              <div className="flex flex-row justify-between p-4">
+                                <div className="flex flex-col">
+                                  <h1 className="font-sans font-semibold text-lg md:text-xl text-white">Kanavu Creations</h1>
+                                  <h1 className="font-sans font-semibold text-sm md:text-base text-white">December 2025</h1>
+                                </div>
+                                <div className="flex flex-col justify-between md:flex md:flex-row md:justify-end">
+                                  <Link href="https://github.com/Tejeswar-16/Dream-Creations"><h1 className="font-sans bg-gray-900 rounded-xl shadow-xl p-2 md:mr-2 text-white hover:cursor-pointer transition-transform duration-300 hover:scale-110">GitHub</h1></Link>
+                                  <Link href="https://kanavu-creations.vercel.app/"><h1 className="font-sans bg-gray-900 rounded-xl shadow-xl mt-1 md:mt-0 p-2 text-white hover:cursor-pointer transition-transform duration-300 hover:scale-110">Try App</h1></Link>
+                                </div>
+                              </div>
+                              <Image src="/dream.png" alt="dream-pic" width={500} height={500}></Image>
+                              <p className="font-sans text-sm md:text-base text-justify text-white p-4">Developed a full-stack e-commerce web application for a real client using Next.js and Google Firebase.
+                                Implemented public product browsing, secure user authentication, cart management, order processing, and
+                                Firestore security rules for role-based accessing with responsive design.</p>
                             </div>
                             {/*********/}
                             <div className="bg-violet-900 rounded-xl shadow-lg shadow-white w-60 md:w-120 my-5">
